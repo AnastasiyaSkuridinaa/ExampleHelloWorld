@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.AssemblyInfo.cs
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\bin\Debug\net6.0\Examplearray.exe
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\bin\Debug\net6.0\Examplearray.deps.json
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\bin\Debug\net6.0\Examplearray.runtimeconfig.json
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\bin\Debug\net6.0\Examplearray.dll
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\bin\Debug\net6.0\Examplearray.pdb
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.dll
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\refint\Examplearray.dll
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.pdb
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\Examplearray.genruntimeconfig.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\Examplearray\obj\Debug\net6.0\ref\Examplearray.dll
