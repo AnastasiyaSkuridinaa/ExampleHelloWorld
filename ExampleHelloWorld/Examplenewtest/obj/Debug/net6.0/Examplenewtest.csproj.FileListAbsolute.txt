@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\bin\Debug\net6.0\Examplenewtest.exe
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\bin\Debug\net6.0\Examplenewtest.deps.json
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\bin\Debug\net6.0\Examplenewtest.runtimeconfig.json
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\bin\Debug\net6.0\Examplenewtest.dll
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\bin\Debug\net6.0\Examplenewtest.pdb
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.AssemblyInfo.cs
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.dll
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\refint\Examplenewtest.dll
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.pdb
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\Examplenewtest.genruntimeconfig.cache
+C:\Users\user\Desktop\git\ExampleHelloWorld\ExampleHelloWorld\Examplenewtest\obj\Debug\net6.0\ref\Examplenewtest.dll
